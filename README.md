@@ -29,7 +29,7 @@
 ---
 
 
-![GifMobile](readme/cripten_axr.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GifMobile](readme/cripten_pm.gif)
+![GifMobile](readme/cripten_axr.gif) &nbsp;&nbsp;&nbsp;![GifMobile](readme/cripten_pm.gif)
 
 ![GifMobile](readme/cripten_pa.gif)
 
