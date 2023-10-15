@@ -222,7 +222,7 @@
         }
     }
     &__play {
-        transition: all 0.3 ease-in;
+        transition: all 0.3s ease-in;
         &:hover .hero__play-img {
             transform: scale(1.01);
         }
@@ -282,7 +282,7 @@
         position: relative;
         @include _850 {
             display: grid;
-            grid-template-rows: 1fr, 0.6fr;
+            grid-template-rows: 1fr 0.6fr;
             max-width: 1440px;
             padding: 0 15px;
             margin: 0;
@@ -2060,7 +2060,7 @@
         background-color: $bgColor;
         display: block;
         margin: 10px auto;
-        transition: all 0.3 ease-in;
+        transition: all 0.3s ease-in;
         @include _480 {
             width: 180px;
         }
@@ -2081,7 +2081,7 @@
         display: inline-block;
         padding-right: 17px;
         margin-top: 20px;
-        transition: all 0.3 ease-in;
+        transition: all 0.3s ease-in;
         position: relative;
         top: 200px;
 
